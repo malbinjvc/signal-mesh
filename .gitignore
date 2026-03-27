@@ -1,0 +1,53 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+nuget.config
+
+## Test results
+[Tt]est[Rr]esult*/
+*.trx
+coverage/
+
+## IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Environment
+.env
+.env.*
